@@ -6,10 +6,7 @@
 - I’m currently working on Web projects
 - Currently learning Kotlin
 
- My social handles  
- 
-[![𝕏](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kombuu23)
-
+ My social handles  [![𝕏](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kombuu23)
 ### Languages
 
  <p align="center">
