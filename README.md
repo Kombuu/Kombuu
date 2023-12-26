@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/y1apf6P1FHRKcRV7Wp/giphy.gif" width="30px">, I'm Kombu</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/bUj82Xh5eEuEo/giphy.gif" width="45px">, I'm Kombu</h1>
  
 
 <h3 align="center">A Web / Mobile Developer.</h3>
